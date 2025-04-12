@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  <h1 class="title">Rodrigo Manuel Maraidaga Zarate</h1>
+  <h1 class="title">Rodrigo Manuel Maradiaga Zarate</h1>
   <h2>Aplicacion de Calculadora</h2>
   <div class="calculator">
   <input type="text" class="result" :value="result" readonly />
