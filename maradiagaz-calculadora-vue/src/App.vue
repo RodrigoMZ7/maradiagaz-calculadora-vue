@@ -13,7 +13,7 @@
   <button class="number" @click="handleClick('4')">4</button>
   <button class="number" @click="handleClick('5')">5</button>
   <button class="number" @click="handleClick('6')">6</button>
-  <button class="operator" @click="handleOperatorClick('/')">/</button>
+  <button class="operator" @click="handleOperatorClick('*')">*</button>
 
   <button class="number" @click="handleClick('1')">1</button>
   <button class="number" @click="handleClick('2')">2</button>
